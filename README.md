@@ -2,7 +2,7 @@
 
 # 🧠 LangChain & RAG Examples
 
-This repository contains illustrative examples and mini-projects using [LangChain](https://www.langchain.com/), focusing on prompt engineering, memory management, retrieval-augmented generation (RAG), and integration with various open-source models including Mistral and HuggingFace.
+This repository contains illustrative examples and mini-projects using [LangChain](https://www.langchain.com/), focusing on prompt engineering, memory management, retrieval-augmented generation (RAG), and integration with various open-source models including Mistral and HuggingFace&Cohere.
 
 ---
 ![image](https://github.com/user-attachments/assets/574118a7-478b-42de-871f-1d57ad9b2ad2)
